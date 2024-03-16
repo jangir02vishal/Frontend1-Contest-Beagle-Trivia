@@ -1,0 +1,22 @@
+.top-div h1{
+    text-decoration: underline;
+}
+
+.top-div{
+   border-style: solid;
+   border-color: black;
+   border-width: 1px;
+   padding: 20px;
+}
+
+.image-section h2{
+    text-decoration: underline;
+}
+
+.image-section img{
+    width: 400px;
+}
+
+.trivia-section h2{
+    text-decoration: underline;
+}
